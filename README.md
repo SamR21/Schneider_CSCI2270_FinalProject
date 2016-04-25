@@ -17,3 +17,5 @@ Basic Rules:
 
 Good luck!!
 
+**This is a final project for CSCI-2270 at CU Boulder. For this project, I will be implementing many algorithms to play Blackjack, as well as vectors to store the Deck of cards, the User's hand, and the Dealer's hand.**
+
