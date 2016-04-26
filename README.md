@@ -19,25 +19,25 @@ Basic Rules:
 
 Good luck!!
 
-*How to Run*
+**How to Run**
 
 1. Download the .zip folder from the repository.
 2. Run the executable file in the .zip to run the game in terminal.
   - You can also run the .cpp files in any compiler to play the game.
 
 
-*System Requirements*
+**System Requirements**
 
 - This game will work on any system.
 
-*Group Members*
+**Group Members**
 
 - None.
 
-*Contributors*
+**Contributors**
 - None yet.
 
-*Open issues/bugs*
+**Open issues/bugs**
 
 - No known bugs/issues. 
 - Recomendations for enhancement: Add bets, double down, split hand to the game.
