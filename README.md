@@ -28,7 +28,8 @@ Good luck!!
 
 **System Requirements**
 
-- This game will work on any system.
+- The game file is a Unix executable, so it will run on any Unix system.
+- If you use Windows, you can run this file in the class VM.
 
 **Group Members**
 
