@@ -20,6 +20,7 @@ Basic Rules:
 Good luck!!
 
 How to Run
+
 1. Download the .zip folder from the repository.
 2. Run the executable file in the .zip to run the game in terminal.
   - You can also run the .cpp files in any compiler to play the game.
