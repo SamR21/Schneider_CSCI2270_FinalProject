@@ -13,7 +13,7 @@ Basic Rules:
 - After getting 2 initial cards, you can "hit" to get another card or "stay".
 - After you "stay", the dealer will begin to play his hand. He will then try to beat your number or "push" with it.
 - The dealer must hit if his cards value at 16 or less. He is also forced to hit if he has an Ace and 6 (Soft 17).
-
+- Since there is no betting involved, Double Down and Split are NOT available in this game.
 
 Good luck!!
 
